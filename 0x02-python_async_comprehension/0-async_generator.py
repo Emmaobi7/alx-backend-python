@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-async generator
-no args
+async generator for random numbers
+10 x
 """
 import asyncio
 from random import uniform
